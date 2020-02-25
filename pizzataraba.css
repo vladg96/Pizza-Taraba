@@ -1,0 +1,205 @@
+
+header {
+	padding-top: 20px;
+	color: #617140;
+	width: auto;
+	height: 180px;
+	margin: 0;
+	background-color: #000000;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+body{
+	margin: 0;
+}
+
+img {
+	float: left;
+	padding-left: 20px;
+}
+
+/* Site Navigation */
+.site-nav {
+	padding-top: 50px;
+	font-family: Caveat, sans-serif;
+}
+
+.site-nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.site-nav li {
+	list-style: none;
+	float: left;
+	padding: 0 10px 0 10px;
+	font-size: 45px;
+}
+
+.site-nav a {
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+	padding: 10px 50px;
+	border-bottom: none;
+	text-align: right;
+}
+
+.site-nav a:hover {
+	color: red;
+}
+
+/* End Site Navigation */
+
+.Acasa {
+	background-image: url(pizza.jpg);
+	background-position: left;
+	background-repeat: no-repeat;
+	height: 600px;
+	padding-top: 30px;
+	width: 100%;
+}
+
+.text {
+	float: left;
+	color: solid black;
+	text-align: center;
+	font-weight: bold italic;
+	font-size: 22px;
+	font-family: Caveat, sans-serif;
+	width: 400px;
+	opacity: 0.9;
+  	filter: alpha(opacity=60);
+  	background-color: darkgrey;
+  	margin-left: 130px;
+  	padding: 20px; 
+}
+
+.numar {
+	float: right;
+	text-align: center;
+	color: #FFF;
+	padding-top: 30px;
+	font-family: Caveat, sans-serif;
+	font-size: 25px;
+	line-height: 0.5;
+}
+
+.numar:hover {
+	color: red;
+}
+
+.continutmeniu{
+	background-image: url(meniu.jpg);
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.Meniu {
+	font-size: 30px;
+	padding: 10px;
+	text-align: center;
+	height: 730px;
+	background-color: lightgrey;
+	margin-left: 130px;
+	margin-right: 130px;
+  	opacity: 0.8;
+  	filter: alpha(opacity=60);
+  	background-color: darkgrey;
+  	margin-top: 50px;
+  	margin-bottom: 50px;
+  	color: solid black;
+  	font-family: Caveat, sans-serif;
+}
+
+.pizza1 {
+	font-size: 18px;
+	float: left;
+	text-align: center;
+	line-height: 0.5;
+	padding-left: 50px;
+}
+
+.pizza2 {
+	font-size: 18px;
+	float: right;
+	text-align: center;
+	line-height: 0.5;
+	padding-right: 50px;
+}
+
+/* Botoane */
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+	background: #ee2a7b;
+	color: #FFF;
+}
+
+/* Gata botoanele */
+
+.toti {
+	height: 600px;
+	width: auto;
+	background-image: url(final.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	text-decoration: none;
+}
+
+.siteuri {
+	float: center;
+	padding-left: 50px;
+}
+
+.parteneri {
+	text-align: center;
+	float: right;
+	font-family: Caveat, sans-serif;
+	font-size: 20px;
+	color: #FFF;
+	width: 50%;
+	text-decoration: none;
+	margin-top: 10px;
+}
+
+
+
+.locatie {
+	float: left;
+	text-align: center;
+	margin-left: 130px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	margin-top: 30px;
+	opacity: 0.9;
+  	filter: alpha(opacity=50);
+  	background-color: darkgrey;
+  	color: #FFF;
+  	font-family: Caveat, sans-serif;
+  	 border-radius: 50%;
+}
+
+footer {
+	text-align: center;
+	float: center;
+	width: 100%;
+	color: #FFF;
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
